@@ -7,15 +7,15 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"   
 >
   <url>
-    <loc>https://madatransportpersoane.com/</loc>
+    <loc>https://madalintransport.com/</loc>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://madatransportpersoane.com/index.html</loc>
+    <loc>https://madalintransport.com/index.html</loc>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://madatransportpersoane.com/transport-persoane.html</loc>
+    <loc>https://madalintransport.com/transport-persoane.html</loc>
     <changefreq>daily</changefreq>
   </url>
 </urlset>

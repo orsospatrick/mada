@@ -1,3 +1,3 @@
-Sitemap: https://madatransportpersoane.com/sitemap.xml
+Sitemap: https://madalintransport.com/sitemap.xml
 User-Agent: *
 Allow: /
